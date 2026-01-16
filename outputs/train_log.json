@@ -1,0 +1,166 @@
+{
+  "args": {
+    "n_qubits": 2,
+    "T": 64,
+    "train_samples": 4000,
+    "test_samples": 800,
+    "noise_std": 0.02,
+    "epochs": 25,
+    "batch_size": 64,
+    "lr": 0.0002,
+    "seed": 42,
+    "outdir": "outputs"
+  },
+  "epochs": [
+    {
+      "epoch": 1,
+      "train_loss": 0.006601391690632989,
+      "mean_fidelity": 0.790550172328949,
+      "mean_trace_distance": 0.3538765013217926
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.004190538119855186,
+      "mean_fidelity": 0.861342191696167,
+      "mean_trace_distance": 0.2774582803249359
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.003345956233510327,
+      "mean_fidelity": 0.8719444274902344,
+      "mean_trace_distance": 0.26528269052505493
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.003190281339019777,
+      "mean_fidelity": 0.8751534223556519,
+      "mean_trace_distance": 0.26233553886413574
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.003138677938090217,
+      "mean_fidelity": 0.8774600028991699,
+      "mean_trace_distance": 0.25850987434387207
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.0030607037403951247,
+      "mean_fidelity": 0.879843533039093,
+      "mean_trace_distance": 0.2554909586906433
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.003009929498206944,
+      "mean_fidelity": 0.8797639608383179,
+      "mean_trace_distance": 0.2544681131839752
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.00297396068626474,
+      "mean_fidelity": 0.8824297189712524,
+      "mean_trace_distance": 0.2525280714035034
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.0029526161998810786,
+      "mean_fidelity": 0.885918378829956,
+      "mean_trace_distance": 0.2509206533432007
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.0029230276911309167,
+      "mean_fidelity": 0.8842118978500366,
+      "mean_trace_distance": 0.25015541911125183
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.002903027910619013,
+      "mean_fidelity": 0.8852559924125671,
+      "mean_trace_distance": 0.24874278903007507
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.0028968597536966683,
+      "mean_fidelity": 0.8861154317855835,
+      "mean_trace_distance": 0.24830766022205353
+    },
+    {
+      "epoch": 13,
+      "train_loss": 0.002864852543890236,
+      "mean_fidelity": 0.8879449367523193,
+      "mean_trace_distance": 0.24959373474121094
+    },
+    {
+      "epoch": 14,
+      "train_loss": 0.002868733755613287,
+      "mean_fidelity": 0.8865631222724915,
+      "mean_trace_distance": 0.24864746630191803
+    },
+    {
+      "epoch": 15,
+      "train_loss": 0.002847944003259463,
+      "mean_fidelity": 0.8889479041099548,
+      "mean_trace_distance": 0.24688059091567993
+    },
+    {
+      "epoch": 16,
+      "train_loss": 0.0028371963942904147,
+      "mean_fidelity": 0.8885021209716797,
+      "mean_trace_distance": 0.2476305067539215
+    },
+    {
+      "epoch": 17,
+      "train_loss": 0.0028347086439269686,
+      "mean_fidelity": 0.8863404989242554,
+      "mean_trace_distance": 0.2484568953514099
+    },
+    {
+      "epoch": 18,
+      "train_loss": 0.002808101197344161,
+      "mean_fidelity": 0.8883350491523743,
+      "mean_trace_distance": 0.24778923392295837
+    },
+    {
+      "epoch": 19,
+      "train_loss": 0.0028150538733649638,
+      "mean_fidelity": 0.8882715106010437,
+      "mean_trace_distance": 0.2473801076412201
+    },
+    {
+      "epoch": 20,
+      "train_loss": 0.0027953448983269835,
+      "mean_fidelity": 0.8897750377655029,
+      "mean_trace_distance": 0.2464715987443924
+    },
+    {
+      "epoch": 21,
+      "train_loss": 0.002777107439244226,
+      "mean_fidelity": 0.8891941905021667,
+      "mean_trace_distance": 0.2453150600194931
+    },
+    {
+      "epoch": 22,
+      "train_loss": 0.002770071135713689,
+      "mean_fidelity": 0.8903710842132568,
+      "mean_trace_distance": 0.24688006937503815
+    },
+    {
+      "epoch": 23,
+      "train_loss": 0.002752013335515174,
+      "mean_fidelity": 0.8886207342147827,
+      "mean_trace_distance": 0.24856732785701752
+    },
+    {
+      "epoch": 24,
+      "train_loss": 0.0027485557779249165,
+      "mean_fidelity": 0.8902608752250671,
+      "mean_trace_distance": 0.24895469844341278
+    },
+    {
+      "epoch": 25,
+      "train_loss": 0.002739775246159444,
+      "mean_fidelity": 0.8889650106430054,
+      "mean_trace_distance": 0.24774116277694702
+    }
+  ]
+}

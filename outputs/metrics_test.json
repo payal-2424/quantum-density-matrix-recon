@@ -1,0 +1,8 @@
+{
+  "mean_fidelity": 0.8901214599609375,
+  "mean_trace_distance": 0.24575099349021912,
+  "inference_latency_sec_per_sample": 0.0023071967548101103,
+  "n_qubits": 2,
+  "T": 64,
+  "test_samples": 800
+}
